@@ -3,7 +3,7 @@
 <?xml-stylesheet type="text/xsl" href="../progetto.xsl"?>
 
 <!--Progetto per l'esame di Codifica di Testi, aa 2021/22
-Codifica di cartoline storiche
+Codifica di cartoline artistiche
 A cura di: Aurora Lotti, mat. 601274--> 
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -11,7 +11,7 @@ A cura di: Aurora Lotti, mat. 601274-->
         <fileDesc>
             <titleStmt>
                 
-                <title xml:id="maintitle">Cartoline Storiche - Edizione digitale</title>
+                <title xml:id="maintitle">Cartoline Artistiche - Edizione digitale</title>
                 
                 <respStmt>
                     <resp>Trascrizione e codifica TEI a cura di</resp>
@@ -252,7 +252,7 @@ A cura di: Aurora Lotti, mat. 601274-->
             <!--LISTA ORGANIZZAZIONI-->
 
                  <listOrg>
-                     <org xml:id="UNIPI">
+                     <org xml:id="UNIPI" type="university">
                     <orgName> Università di <settlement> Pisa </settlement> </orgName>
                     <desc>
                         Università di Pisa (UniPi). Fondata nel 1343 .
