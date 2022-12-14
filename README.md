@@ -2,7 +2,7 @@
 
 Università di Pisa
 
-Corso: Codifica dei Testi 2021/2022, A. M. Del Grosso
+Corso: Codifica di Testi 2021/2022, A. M. Del Grosso
 
 Studente: Aurora Lotti
 
