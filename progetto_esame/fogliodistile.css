@@ -1,0 +1,182 @@
+/*foglio di stile per il progetto di codifica di testi*/
+
+body{
+	font-family: Arial, serif;
+    background-color: #e6efe1;
+}
+
+.tit{
+    font-family: 'Brush Script MT', cursive;
+	font-size: 45px;
+}
+	
+	
+.navbar{
+    background-color:#bc9b8a;
+    margin: 0px auto;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.first{
+    font-weight: bold;
+}
+
+.alink{
+    background-color: #e6efe1; 
+    border: 2px solid #bc9b8a;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-decoration: none;
+    margin-right: 5px;
+    margin-left: 5px;
+    color: black;
+	font-weight: bold;
+    font-family: Arial, cursive;
+	font-size:20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.titoletto{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Brush Script MT', cursive;
+	margin-bottom: 15px;
+	
+}
+
+.titoletto1{
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+   font-family:Arial, cursive;
+}
+
+.titoletto2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Brush Script MT', cursive;
+	margin-bottom: -15px;
+	
+}
+
+.note{
+   
+	margin-top: -15px;
+	
+}
+
+#intro{
+	padding: 5px;
+    margin: 20px;
+	text-align:center;
+	font-size:20px;
+	background-color:#cacaa7;
+	
+}
+
+
+.gridcont{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 5px;
+	margin:10px;
+}
+
+.grid1{
+    margin: 30px;
+	text-align:left;
+	float:left;
+}
+
+.grid2{
+    padding: 5 px;
+    margin: 25 px;
+	font-size: 50 px;	
+	padding-top:120px;
+	float:left;
+	margin-left:-200px;
+	max-width:600px;
+	font-size:25px;
+}
+
+.grid3{
+    margin: 30 px;	
+	text-align:left;
+	float:left;
+}
+
+
+.grid4{
+    padding: 5 px;
+    margin: 5 px;
+	font-size: 27 px;	
+	text-align:left;
+}
+
+.grid5{
+	display:none;
+    padding: 5 px;
+    margin: 15 px;	
+	text-align:center;
+	background-color:#bc9b8a;
+	font-size:25px;
+	padding-bottom:15px;
+	
+	
+}
+
+.mostrainfo108, .mostrainfo124{
+  background-color: #b5b07d; 
+  border: none;
+  color: white;
+  font-size: 16px;
+  padding: 15px 32px;
+  margin-left:20px;
+  text-align: center;
+  text-decoration: none;
+} 
+
+#fronte108, #fronte124{
+    height: 400px;
+    width: auto;
+	margin-left:15px;
+}
+
+#retro108, #retro124{
+    width: 500px;
+    height : auto;
+    margin-top:70px;
+	margin-left:15px;
+	
+}
+
+
+.first{
+    font-weight: bold;
+}
+
+
+
+footer{
+	padding-top: 100px;
+    margin: 10px;
+}
+
+.about{
+	margin-top:10px;
+    padding:15px;
+	background-color:#cacaa7;
+	font-size: 20px;
+	text-align:center;
+}
